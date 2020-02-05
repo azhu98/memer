@@ -16,6 +16,7 @@
 }
 
 .input-wrap{
+  padding-top:0.75rem;
   width:98%;
   display: flex;
 }
