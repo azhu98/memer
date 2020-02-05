@@ -11,12 +11,12 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   background:white;
-  padding-top:0.75rem;
-  padding-bottom:0.75rem;
+  padding-top:0.4rem;
+  padding-bottom:1.2rem;
 }
 
 .input-wrap{
-  padding-top:0.75rem;
+  padding-top:0.4rem;
   width:98%;
   display: flex;
 }
@@ -27,6 +27,7 @@
   display:flex;
   flex-wrap:wrap;
   justify-content:center;
+  padding:40px;
 }
 
 .meme{
